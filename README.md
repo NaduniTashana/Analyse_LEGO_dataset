@@ -10,3 +10,19 @@ When did the LEGO company really take-off based on its product offering? How man
 
 Did LEGO sets grow in size and complexity over time? Do older LEGO sets tend to have more or fewer parts than newer sets?
 
+
+
+Things I learned by this project
+
+How to combine a Notebook with HTML Markup.
+
+Apply Python List slicing techniques to Pandas DataFrames.
+
+How to aggregate data using the .agg() function.
+
+How to create scatter plots, bar charts, and line charts with two axes in Matplotlib.
+
+Understand database schemas that are organised by primary and foreign keys.
+
+How to merge DataFrames that share a common key
+
